@@ -1,2 +1,2 @@
 # visorbim.ar
-Visor IFC de código abierto
+En este sitio funcionrará el visor de archivos IFC de código abierto.
